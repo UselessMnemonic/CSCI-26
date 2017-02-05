@@ -2,12 +2,12 @@
 Authored by Christoper J. Madrigal (0778098)
 5 Feburary 2017
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+ CartesianProduct.cpp									   +
++ CartesianProduct.cpp                                     +
 + Simple application to demonstrate cartesian set products +
-+														   +
-+ User specifies elements of set A and B,			       +
-+  then used by the program to calculate				   +
-+  the Cartesian product between them 					   +
++                                                          +
++ User specifies elements of set A and B,                  +
++  then used by the program to calculate                   +
++  the Cartesian product between them                      +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 */
 
